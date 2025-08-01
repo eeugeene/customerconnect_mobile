@@ -1,4 +1,5 @@
 # customerconnect_mobile
+# no working mobile as of yet
 
 A new Flutter project.
 
